@@ -49,3 +49,15 @@ If the issue still persists then try flutter clean and run.
 2. 開啟pubspec.yaml
 3. 修改cachedNetworkImage的版本
 (版本說明及更新方式)[https://pub.dev/packages/cached_network_image/versions/2.0.0-rc#-installing-tab-]
+
+---
+
+### How to change iOS status bar theme
+[Stackflow](https://stackoverflow.com/questions/51709247/how-to-change-the-status-bar-text-color-on-ios)
+
+```dart
+appBar: new AppBar(
+  title: new Text(widget.title),
+  brightness: Brightness.light, // or use Brightness.dark
+),
+```
