@@ -61,3 +61,8 @@ appBar: new AppBar(
   brightness: Brightness.light, // or use Brightness.dark
 ),
 ```
+
+### 跑實機時一直錯誤，虛擬機沒問題
+Turn off your personal hotspot
+
+
