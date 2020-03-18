@@ -9,3 +9,5 @@
 ### [Color](https://github.com/vincentLin113/learn-flutter/blob/master/color.md)
 
 ### [UI](https://github.com/vincentLin113/learn-flutter/blob/master/ui.md#streamBuilder)
+
+### [Public Android App](https://github.com/vincentLin113/learn-flutter/blob/master/publishAndroidApp.md)
