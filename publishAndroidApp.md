@@ -68,5 +68,5 @@ With the signing configuration info:
    }
 ```
 
-4. flutter build apk
+4. flutter build apk/flutter build appbundle
 5. flutter install
